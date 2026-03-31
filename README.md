@@ -1,4 +1,4 @@
-# CRISPR Spacer Analysis Pipeline (Phytobacter)
+# Python pipeline for CRISPR spacer clustering and comparative genomic analysis
 
 ## Overview
 This project implements a Python-based pipeline for analyzing CRISPR spacer sequences from bacterial isolates. It was developed as part of my Bachelor thesis, focusing on genomic characterization of *Phytobacter* isolates and their CRISPR spacer diversity.
