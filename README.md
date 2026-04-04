@@ -80,4 +80,4 @@ This pipeline was developed in the context of my Bachelor thesis on the genomic 
 
 ## Michèle Pfister
 MSc Applied Computational Life Sciences  
-Bioinformatics | Genomics | Health Data Science
+Bsc Biomedical laboratory Diagnostics
